@@ -1,4 +1,4 @@
-# vue_typescript
+# vue_typescript_ant
 
 ## Project setup
 ```
